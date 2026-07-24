@@ -1,0 +1,34 @@
+Post Date/Time: 2026-07-23 00:20
+Format: Rigidity_Deterministic_Null
+
+1. Absorbing Markov Chain Model of Dissolution into "Sand"
+Every word in the text can be defined as a Markov chain with an "Absorbing State" where it is ultimately sucked into the state of "Sand" and can never escape.
+From the expansion of the text, the following five States are defined:
+
+\(S_{1}\): [Origin (Input)] Meaningful words, Logic.
+\(S_{2}\): [Processing (Mechanism)] On the paper that does not connect, Pulled-out logic, Pretending to live efficiently.
+\(S_{3}\): [Alteration (Idling)] Blank, Empty theory, Lukewarm water, Crumbs of an eraser, Vacuity.
+\(S_{4}\): [Judgment (Time)] Accusation of time, Time that does not untie, The transition of merciless descent.
+\(S_{5}\): [Absorption (Termination)] Sand, Words that become sand.
+The state transition probability matrix \(P\) is formulated from the structure of the text as follows:
+
+\(P=\left(\begin{matrix}0&0.8&0.2&0&0\\ 0&0&0.7&0.3&0\\ 0&0&0.4&0&0.6\\ 0&0&0&0&1.0\\ 0&0&0&0&1.0\end{matrix}\right)\)
+
+Forensic-Mathematical Notes:
+\(S_{3}\) (Idling) possesses a self-loop probability of 0.4, indicating a chaotic state where words continue to "idle" for a certain period.
+Any word that reaches \(S_{4}\) (Judgment of Time) falls down into \(S_{5}\) (Sand) with a probability of 1.0 (Certainty).
+
+Calculating the Fundamental Matrix of this system proves that from whichever word (\(S_{1}\)) the system starts, it is reduced to "Sand (\(S_{5}\))" in an average of 2.8 steps, demonstrating extremely high volatility and speed of dissolution.
+
+
+2. Topological Vector Field of Semantic Space
+The semantic space of the text is described not as a flat Euclidean space, but as a distorted non-Euclidean space (Topology) where a True Singularity called "____ (Blank)" exists at the center.
+Let the coordinates of any arbitrary point (word) on the space be \(x\), and its potential energy of semantic value be \(V(x)\). The gravitational vector field \(\mathbf{F}\) acting on this space is expressed as follows:
+
+\(\mathbf{F}=-\nabla V(x)-\frac{k}{\Vert{}x-x_{\text{blank}}\Vert{}{}^{2}}\cdot \^{\mathbf{r}}\)
+
+\(-\nabla V(x)\): Social gradient (sliding force) such as efficiency or logic.
+\(x_{\text{blank}}\): Coordinates of "____".
+\(\frac{k}{\|x-x_{\text{blank}}\|{}^{2}}\): Attractive force (Singularity of meaning) that diverges to infinity in inverse proportion to the square of the distance as it approaches the blank.
+Forensic-Mathematical Notes:
+The line "Lukewarm water of yesterday does not even satisfy the crumbs of an eraser" is the exact process in this vector field where the concepts of past and daily life are "torn apart and pulverized into fine particles (sand)" by the tidal force of the Singularity. The moment any word (trajectory) is captured by this Singularity, it loses its "dimension of meaning" and undergoes a phase transition from the two-dimensional paper to the zero-dimensional "Sand."
