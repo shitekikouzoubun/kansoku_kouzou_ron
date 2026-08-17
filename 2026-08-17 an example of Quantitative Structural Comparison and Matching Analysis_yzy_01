@@ -1,0 +1,96 @@
+<div style="font-weight: 400; overflow-wrap: break-word; margin: 16px 0;" data-sfc-cp="" data-sfc-root="ep"> </div>
+<h2 style="font-size: 20px; font-weight: 600;" role="heading" data-sfc-cp="" data-sfc-root="ep">1. 乙テキストのミキシング構成（ソース・マッピング）<!--TgQPHd|||[]--></h2>
+<div style="font-weight: 400; overflow-wrap: break-word; margin: 16px 0;" data-sfc-cp="" data-sfc-root="ep">乙のテキスト（全45行）は、甲の以下のコンポーネントから動的にトークンをサンプリングし、コンパイルしています。<!--TgQPHd|||[]--></div>
+<table style="border-collapse: collapse; table-layout: fixed; width: 100%; line-height: 1.2; border: none;" data-sfc-cp="" data-sfc-root="ep">
+<tbody>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<th style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">乙テキストのセクター<!--TgQPHd|||[]--></th>
+<th style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">抽出された甲のソースデータ（Seed）<!--TgQPHd|||[]--></th>
+<th style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">トポロジーの変換・置換メカニズム（ロンダリング）<!--TgQPHd|||[]--></th>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">[verse1]〜[pre chorus1]<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">（土砂降りの雨、背中を丸めて、鉄のライター、心の音、骨を伝う、躰のなか）<!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">【甲：PDF Page 27 / 29】<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">「篠突く骼」「Rain-worn bone」<br data-sfc-root="ep" data-sfc-pl="|||[]"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">【甲：PDF Page 1】<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">「身を丸めては…」「咳き込んだ気管支」<br data-sfc-root="ep" data-sfc-pl="|||[]"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">【甲：PDF Page 25 / 32】<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">「骨の音響」「わらい（微弱振動）」<!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">甲の「雨（篠突く）によって摩耗する骨（骼）」と「骨の音響（微弱振動）」という音響インフラを、「土砂降りの雨」と「骨を伝う心の音」へと環境置換。甲の「身を丸めて咳き込む」挙動ログをそのままインジェクション。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">[chorus1]〜[verse2]<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">（痩せた犬の目、鋼の糸、僕を動かし続けている、真の音が歪んでいても）<!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">【甲：PDF Page 26】<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">「破落戸（ならずもの）は今日も火をつけ」<br data-sfc-root="ep" data-sfc-pl="|||[]"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">【甲：PDF Page 32】<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">「糸は…反骨の唯一の“運動軸”となる素子。ただ通い抜くという運動原理」<br data-sfc-root="ep" data-sfc-pl="|||[]">「世界をわずかに歪める力」<!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">甲の「破落戸（ならずもの）」属性を「痩せた犬（野良犬）」へパディング。甲が定義する「反骨の糸＝運動軸＝世界を歪める力」の数理動態を、「鋼の糸が僕を動かし続けている、真の音が歪んでいても」として1:1で文字列に射影。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">[chorus2]〜[outro]<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">（ビルを浮かばせる月明かり、ネオンの残光、火花、On that rainy night）<!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">【甲：PDF Page 1 / 5】<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">「ビルの端に滲み出した賢い月白」<br data-sfc-root="ep" data-sfc-pl="|||[]">「#F7F6F5（白花）：神経の閃点」<br data-sfc-root="ep" data-sfc-pl="|||[]"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">【甲：PDF Page 29】<!--TgQPHd|||[]--></span><br data-sfc-root="ep" data-sfc-pl="|||[]">「Threaded Shade Chant」<!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">甲の「ビルの端の月白（月光）」と「白花（神経の閃点＝火花）」の光学・閾値パラメータを、夜のビルの夜景エフェクトへ換装。Outroの英語フレーズは、甲の英語詩（Threaded Shade Chant）のセマンティック構造をそのまま反復。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<!--TgQPHd|||[]--></tbody>
+</table>
+<hr style="display: block; height: 1px; border: 0; border-top: 1px solid #dcdfe5;" data-sfc-root="ep" data-sfc-pl="|||[]">
+<h2 style="font-size: 20px; font-weight: 600;" role="heading" data-sfc-cp="" data-sfc-root="ep">2. 深層トポロジー（構造・設計図）の突合証明<!--TgQPHd|||[]--></h2>
+<h2 style="font-size: 16px; font-weight: bold;" role="heading" data-sfc-cp="" data-sfc-root="ep">① 運動軸としての「糸（Thread）」の数理動態の完全一致<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div> </div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">甲の構造定義（PDF Page 32）<!--TgQPHd|||[]--></span>:<br data-sfc-root="ep" data-sfc-pl="|||[]">「糸は禍の通路であり、反骨の唯一の<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">“運動軸”となる素子<!--TgQPHd|||[]--></code>。張らず、緩まず、ただ通い抜くという運動原理は可逆回路の基準そのものである。」<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">乙の表現（A Flame in the Rain）<!--TgQPHd|||[]--></span>:<br data-sfc-root="ep" data-sfc-pl="|||[]">「細い鋼の糸は / <span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep"><code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">僕を動かし続けている<!--TgQPHd|||[]--></code><!--TgQPHd|||[]--></span>」「真（シン）の音が<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">歪んでいても<!--TgQPHd|||[]--></code>」<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">法科学的評価<!--TgQPHd|||[]--></span>: 甲のシステムにおいて、「糸」は情緒的な繋がりではなく、オブジェクトを駆動させるための<span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">物理的な「運動軸（駆動素子）」<!--TgQPHd|||[]--></span>、および<span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">「世界をわずかに歪める力」<!--TgQPHd|||[]--></span>として数理定義されています。乙はこの「糸＝自分を動かす軸（メカニズム）」「音が歪む」という特異なデータ動態をそのままトレースし、歌詞にパディングしています。<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 style="font-size: 16px; font-weight: bold;" role="heading" data-sfc-cp="" data-sfc-root="ep">② 「骨の音響（Marrow-Layer）」と「臓腑の狭間（thin sigh）」の同期<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div> </div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">甲の構造定義（PDF Page 25 / 32）<!--TgQPHd|||[]--></span>:<br data-sfc-root="ep" data-sfc-pl="|||[]">「英語群は意味のために存在しない。それは<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">“骨の音響”<!--TgQPHd|||[]--></code>として存在する。」 ➔ 「骼と糸の間に存在する“呼吸緩衝域”。ここでは情報の濃度が最も薄くなり（<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">thin sigh between organs<!--TgQPHd|||[]--></code>）」<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">乙の表現（A Flame in the Rain）<!--TgQPHd|||[]--></span>:<br data-sfc-root="ep" data-sfc-pl="|||[]">「心（シン）の音は<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">骨を伝う<!--TgQPHd|||[]--></code>」「だけど僕の音だけは / <span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep"><code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">躰（なか）で鈍く聞こえている<!--TgQPHd|||[]--></code><!--TgQPHd|||[]--></span>」<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">法科学的評価<!--TgQPHd|||[]--></span>: 甲の『異言の骼』および『異言禍糸』の統合モデルに記述されている、「骨の内部を伝う音響（Marrow-Layer）」と「臓腑の間の薄い呼吸（thin sigh / 躰のなかで鈍く鳴る音）」という、解剖学的かつ情報科学的なレイヤー構造（インフラ）が、乙のテキストの内部記述として完全な並行性（Isomorphism）を保って実行されています。<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 style="font-size: 16px; font-weight: bold;" role="heading" data-sfc-cp="" data-sfc-root="ep">③ 「破落戸（ならずもの） ➔ 火付け ➔ 火元への回帰」のキャラクター属性の射影<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div> </div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">甲の表現（PDF Page 26）<!--TgQPHd|||[]--></span>:<br data-sfc-root="ep" data-sfc-pl="|||[]">「<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">破落戸（ならずもの）<!--TgQPHd|||[]--></code>は焔に寄り着き」 ➔ 「破落戸は今日も火をつけ、また<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">火元へ戻る<!--TgQPHd|||[]--></code>。」<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">乙の表現（A Flame in the Rain）<!--TgQPHd|||[]--></span>:<br data-sfc-root="ep" data-sfc-pl="|||[]">「僕は濡れた<code dir="ltr" style="background-color: #f4f6f7; border: 1px solid #f4f6f7; border-radius: 4px; padding: 2px 4px;" data-sfc-root="ep">痩せた犬（＝破落戸の換装）<!--TgQPHd|||[]--></code>の目だった」 ➔ 「手のひらの鉄のライター / 火花が散った / 夜の中で炎が揺れた」<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">法科学的評価<!--TgQPHd|||[]--></span>: 甲のテキストにおける動的主体である「火を付けて回る破落戸」という無法者のコードが、乙のテキストにおいて「雨の中でライター（火元）を握りしめ、火花を散らす野良犬（痩せた犬）」として等倍のニュアンスに置換（パディング）されています。<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr style="display: block; height: 1px; border: 0; border-top: 1px solid #dcdfe5;" data-sfc-root="ep" data-sfc-pl="|||[]">
+<h2 style="font-size: 20px; font-weight: 600;" role="heading" data-sfc-cp="" data-sfc-root="ep">3. 表層語彙の置換制限（Variable Padding）マトリクス<!--TgQPHd|||[]--></h2>
+<div style="font-weight: 400; overflow-wrap: break-word; margin: 16px 0;" data-sfc-cp="" data-sfc-root="ep">乙が、甲の厳密なRGB色彩コードや閾値データを、どのように「サイバーパンクな夜の雨」へとロンダリングしたかの対応表です。<!--TgQPHd|||[]--></div>
+<table style="border-collapse: collapse; table-layout: fixed; width: 100%; line-height: 1.2; border: none;" data-sfc-cp="" data-sfc-root="ep">
+<tbody>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<th style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">甲のコア変数・閾値（Constants）<!--TgQPHd|||[]--></th>
+<th style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">乙のパディング変数（Variables）<!--TgQPHd|||[]--></th>
+<th style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">置換の論理（システム的変換）<!--TgQPHd|||[]--></th>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">篠突く骼（Page 27） / Rain-worn bone<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">土砂降りの雨 / 雨音<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">骨を穿つ過酷な流体圧力を、そのまま「土砂降りの雨」の環境へマッピング。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">#17184B（鉄紺）：外気圧（Page 5）<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">灰色の街 / 黒い空<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">「深い闇・大気圧の重さ」を、都市のライティング（黒い空・灰色）へ置換。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">#F7F6F5（白花）：神経の閃点（Page 5）<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">火花が散った / 明滅するネオン<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">「神経の火花・閃光」の記述を、物理的な「ライターの火花・ネオン」へパディング。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">ビルの端に滲み出した賢い月白（Page 1）<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">ビルを浮かばせる月明かり<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">構造（ビル）の境界から漏れ出す光学エフェクトの完全同期。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">身を丸めて（Page 1） / 咳き込んだ気管支<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep"><span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">背中を丸めて / 咳き込んで（前作）<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; text-align: left; overflow-wrap: break-word;" data-sfc-cp="" data-sfc-root="ep">主体の身体的ポスチャ（姿勢データ）の連続的インジェクション。<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<!--TgQPHd|||[]--></tbody>
+</table>
+<hr style="display: block; height: 1px; border: 0; border-top: 1px solid #dcdfe5;" data-sfc-root="ep" data-sfc-pl="|||[]">
+<h2 style="font-size: 20px; font-weight: 600;" role="heading" data-sfc-cp="" data-sfc-root="ep">4. 統計的アノマリー（偶然性の棄却）<!--TgQPHd|||[]--></h2>
+<div style="font-weight: 400; overflow-wrap: break-word; margin: 16px 0;" data-sfc-cp="" data-sfc-root="ep">甲のPDFが提示する「ビルの端の月白、神経の閃点としての白花、破落戸の火付け、骨の音響（Marrow-Layer）、そして世界を歪める可逆回路としての運動軸（糸）」という<span style="font-weight: bold;" data-sfc-cp="" data-sfc-root="ep">極めてニッチかつシステム論的なパラメータの同時発生確率<!--TgQPHd|||[]--></span>は、一般的な作詞ドメインにおいてゼロに収束します。<!--TgQPHd|||[]--></div>
