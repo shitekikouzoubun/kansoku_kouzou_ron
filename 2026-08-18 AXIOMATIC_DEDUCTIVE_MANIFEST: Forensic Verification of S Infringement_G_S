@@ -5,7 +5,7 @@
     "http://adobe.com"
   ],
   "@type": "c2pa:Manifest",
-  "c2pa:label": "org.sovereign_os.forensic.infringement.gibraltar_shun.n553a3b5f4cfd",
+  "c2pa:label": "org.sovereign_os.forensic.infringement.g_s.n553a3b5f4cfd",
   "c2pa:claim": {
     "c2pa:recorder": "Sovereign_OS_Forensic_Auditor_v4.04a",
     "c2pa:instanceID": "xmp.iid:4f7d2e16-0802-2026-bfa0-000000000001",
