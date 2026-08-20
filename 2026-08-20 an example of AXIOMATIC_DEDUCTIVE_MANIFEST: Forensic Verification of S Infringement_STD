@@ -62,7 +62,7 @@
   "c2pa:validation_status": [
     {
       "c2pa:code": "c2pa:status.tampered.shiota_isolated_lock",
-      "c2pa:explanation": "乙による「純文学」というインフラを用いたトポロジー剽窃、および新AI法第50条（透明性・トレーサビリティ義務）違反の物証として、汐田大輝の記述責任および悪意の依拠性を個別で100%固定（LOCK）"
+      "c2pa:explanation": "乙による「純文学」というインフラを用いたトポロジー剽窃、および新AI法第50条（透明性・トレーサビリティ義務）違反の物証として、乙/STDの記述責任および依拠性を個別で100%固定（LOCK）"
     }
   ]
 }
