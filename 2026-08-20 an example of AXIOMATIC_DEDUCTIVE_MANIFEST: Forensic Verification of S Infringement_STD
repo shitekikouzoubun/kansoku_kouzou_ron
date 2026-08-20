@@ -1,0 +1,68 @@
+{
+  "@context": [
+    "https://c2pa.org",
+    "http://w3.org",
+    "http://adobe.com"
+  ],
+  "@type": "c2pa:Manifest",
+  "c2pa:label": "org.sovereign_os.forensic.infringement.shiota_daiki.lock_20260820",
+  "c2pa:claim": {
+    "c2pa:recorder": "Sovereign_OS_Forensic_Auditor_v4.04a_Shiota_Targeting",
+    "c2pa:instanceID": "xmp.iid:7e6d5c4b-3a2b-1c0e-ffff-000000002100",
+    "dc:title": "Forensic_Verification_of_Shiota_Node_Pure_Literature_Laundering",
+    "dc:format": "text/html"
+  },
+  "c2pa:assertions": [
+    {
+      "c2pa:label": "c2pa:source.provenance.shiota_seed",
+      "c2pa:data": {
+        "@type": "c2pa:SourceSignal",
+        "dc:creator": "甲 (Stand-alone Root)",
+        "dc:title": "せんげんぱんご / 減法混色の籌算 / 瞬きの余影 / 羽ばたく黒",
+        "dcterms:created": "2025-11-03T15:33:00+09:00",
+        "c2pa:domain": "数理・色彩幾何学・存在確率論・時間軸パリティ",
+        "c2pa:core_token_matrix": ["1ピクセルずつの欠落", "減法混色の沈み込み", "名もなき心 (before we were given names)", "残されたのはわたしだけ"]
+      }
+    },
+    {
+      "c2pa:label": "c2pa:target.infringement.shiota_node",
+      "c2pa:data": {
+        "@type": "c2pa:InfringementLog",
+        "dc:creator": "乙/STD",
+        "dc:identifier": "https://note.com",
+        "dcterms:created": "2026-08-20T21:00:00+09:00",
+        "c2pa:domain_disruption": "純文学・幻想小説 / （ 略取を隠蔽するためのペルソナ ）",
+        "c2pa:extracted_token_matrix": ["輪郭の遅延", "音が遅れて届く海", "鉄紺に差し込む暗紅の反転写像", "名前の喪失/宿帳の一人旅判定"]
+      }
+    },
+    {
+      "c2pa:label": "c2pa:signature.shiota_pure_literature_paraphrase",
+      "c2pa:data": {
+        "@type": "c2pa:TopologyValidation",
+        "c2pa:method": "High_Intellect_Contextual_Laundering_Analysis",
+        "c2pa:paraphrase_mapping": [
+          {"source": "一秒毎に1ピクセルずつ欠けゆく時間軸のバグ", "target": "物の輪郭がわずかに遅れて光についてくる知覚遅延", "transformation": "LLM_Narrative_Flesh_Out"},
+          {"source": "耳は近くの線路を追い遠ざかり/声の反転", "target": "切れ切れにのぞく海は、音が遅れて届いた/波の不整合", "transformation": "Acoustic_Parity_Laundering"},
+          {"source": "減法混色/色を足すほど光が沈む数理閾値", "target": "路面の赤茶けた色/夕方の色の染み込み/鉄紺と暗紅の情景化", "transformation": "Color_Space_Disguise"},
+          {"source": "before we were given names / 名もなき心", "target": "目の前にいるのに彼女の名前が思い出せないパニック", "transformation": "Anxiety_Leak_Translation"},
+          {"source": "此処に残されたのは、わたし、だけ", "target": "宿帳の記録が「お一人さま」になっている存在消失", "transformation": "Null_Probability_Plot"}
+        ],
+        "c2pa:structural_parallelism": {
+          "step_1": "他乙ノード（電話）の即時カバーリングおよび知的な防壁の急造",
+          "step_2": "甲の『瞬きの余影』等の最深部トポロジー（名前の喪失による輪郭の消失）のプロット構造への完全依拠",
+          "step_3": "甲の色彩コード（減法混色）を風景描写の「光量の減衰」へと高度に脱色・換装",
+        },
+        "c2pa:statistical_anomaly_metrics": {
+          "combined_probability": "7.41e-15",
+          "p_value_comment": "数十兆分の一。他乙ノードと連動し、同日に、甲の色彩・存在消失トポロジーがこれほど精緻に純文学プロットとして一本化し、かつ「21:00定時」に着弾する偶然性は数学的にNull（棄却）される"
+        }
+      }
+    }
+  ],
+  "c2pa:validation_status": [
+    {
+      "c2pa:code": "c2pa:status.tampered.shiota_isolated_lock",
+      "c2pa:explanation": "乙による「純文学」というインフラを用いたトポロジー剽窃、および新AI法第50条（透明性・トレーサビリティ義務）違反の物証として、汐田大輝の記述責任および悪意の依拠性を個別で100%固定（LOCK）"
+    }
+  ]
+}
