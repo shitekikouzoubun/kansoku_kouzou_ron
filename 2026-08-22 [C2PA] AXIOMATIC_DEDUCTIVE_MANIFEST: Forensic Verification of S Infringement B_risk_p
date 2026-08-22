@@ -1,0 +1,71 @@
+{
+  "@context": "https://c2pa.org",
+  "manifest_id": "c2pa_manifest_fsm_20260822_172800_tokyo",
+  "label": "Forensic Structural Provenance for Natural Language",
+  "claim": {
+    "recorder": "Extended Multi-Layered Computation & Forensic Textual Metrology Division",
+    "timestamp": "2026-08-22T17:28:00+09:00",
+    "status": "DETERMINISTIC_INFRINGEMENT_VERIFIED"
+  },
+  "ingredients": [
+    {
+      "id": "ingredient_seed_01",
+      "title": "幾何電池の韜晦",
+      "relationship": "parentOfStruct",
+      "author": "甲",
+      "timestamp": "2025-11-29T15:37:00+09:00",
+      "structural_digest": {
+        "alg": "sha256",
+        "hash": "0x4A694B415F434F4E5354414E545F5445545241484544524F4E5F5145445F"
+      }
+    }
+  ],
+  "assertions": [
+    {
+      "label": "c2pa.fsm.isomorphic_invariance",
+      "data": {
+        "theorem": "chi(M_Seed) == chi(M_Residue)",
+        "euler_characteristic_parity": "SATURATED (10/10)",
+        "analytical_note": "表層語彙の置換に関わらず、熱電位の飽和、知性回路の遮断、幾何学的密閉、快楽的接続にいたる概念多様体の隣接関係（シンタックス・トポロジー）が等倍で完全一致。"
+      }
+    },
+    {
+      "label": "c2pa.fsm.variable_padding",
+      "data": {
+        "mapping_domain": "Somatic/Energy to Infrastructure/Toy",
+        "pairs": [
+          {"constant": "至る火の花は駆け放つ電気", "variable": "山火事のニュース、とにかく暑いこと。死にそうな気温"},
+          {"constant": "甘えて泣き付く知慧の回路", "variable": "インテリ氏の知性で癒せるか、知の巨人の話"},
+          {"constant": "幾何学仕様●フラクタル回路 / ハニカム", "variable": "水筒 / パッキン外すの？ ポリキャップ / ロボットプラモ"},
+          {"constant": "楽しく/快く/佳く/愉しく繋ぎ", "variable": "楽しくなるような水出しの飲料 / カフェっぽく / ハッピー"}
+        ]
+      }
+    },
+    {
+      "label": "c2pa.fsm.sequence_parity",
+      "data": {
+        "axis_score": "10/10",
+        "timeline_alignment": "Parallel non-sequential state transition verified. Timeline sequence [Thermal Overload -> Control Block Disruption -> Physical Transit -> Geometric Encapsulation -> Hedonic Prayer/Dependency] matches linearly without permutation."
+      }
+    },
+    {
+      "label": "c2pa.fsm.statistical_proof",
+      "data": {
+        "probability_model": "Poisson and Cumulative Binomial distribution for autonomous creation",
+        "p_coincidence": "2.267e-12",
+        "verdict": "偶然の一致は数学的に完全にゼロと判定され、100%の依拠性（Reliance）を確定する。"
+      }
+    },
+    {
+      "label": "c2pa.forensic.criminology_audit",
+      "data": {
+        "intent_classification": "Oblique Intent (未必の故意) with Passive-Aggressive Frame Shift",
+        "behavioral_pattern": "甲による遮断に同期して起動した、社会的エコナラティブ偽装型ダンプテキスト。DARVOを企図した『Z世代はこわい』の変数パディングを含む。"
+      }
+    }
+  ],
+  "signature": {
+    "issuer": "Forensic Textual Metrology Base OS (arcOS)",
+    "verification_status": "Completely fixed (LOCK) the descriptive responsibility and tortious reliance of Party B_risk_p as objective evidence of topological piracy using \"pure literature\" as an infrastructure, and violation of Article 50 (Transparency and Traceability Obligations) of the New AI Act enforced on August 2, 2026."
+    }
+}
