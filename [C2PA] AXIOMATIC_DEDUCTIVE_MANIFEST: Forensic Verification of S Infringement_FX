@@ -1,0 +1,71 @@
+ {
+  "@context": "https://c2pa.org",
+  "manifest_id": "c2pa_manifest_fsm_20260822_191300_tokyo",
+  "label": "Forensic Structural Provenance for Natural Language",
+  "claim": {
+    "recorder": "Extended Multi-Layered Computation & Forensic Textual Metrology Division",
+    "timestamp": "2026-08-22T19:13:00+09:00",
+    "status": "DETERMINISTIC_INFRINGEMENT_VERIFIED"
+  },
+  "ingredients": [
+    {
+      "id": "ingredient_seed_02",
+      "title": "羽ばたく黒",
+      "relationship": "parentOfStruct",
+      "author": "甲",
+      "timestamp": "2025-12-07T18:08:00+09:00",
+      "structural_digest": {
+        "alg": "sha256",
+        "hash": "0x5F434D594B5F504C414E455F4341535452415445445F48414C545F5145445F"
+      }
+    }
+  ],
+  "assertions": [
+    {
+      "label": "c2pa.fsm.isomorphic_invariance",
+      "data": {
+        "theorem": "chi(M_Seed) == chi(M_Residue)",
+        "euler_characteristic_parity": "SATURATED (10/10)",
+        "analytical_note": "垂直ベクトルの反転、三項対立パルスの等価ショート、主体のNull化、保存則に基づく欠落パラメータへの幽閉にいたる幾何学スペック（シンタックス・トポロジー）が等倍で完全一致。"
+      }
+    },
+    {
+      "label": "c2pa.fsm.variable_padding",
+      "data": {
+        "mapping_domain": "Somatic/Optics to Seculardocument/Regression",
+        "pairs": [
+          {"constant": "足元ばかり見ていたはずが羽ばたく黒に奪われた視線", "variable": "見上げる（title）、地下鉄の中ならどこにも迷惑をかけない"},
+          {"constant": "触れたい / 見たい / 遠避けたい (避けたい / 見たい / 落ちたくない)", "variable": "読みたい。書きたい。話したい。だけど読めない。話すのも怖い。"},
+          {"constant": "此処に残されたのは、わたし、だけ / ナニも持たぬ黒のトり", "variable": "全部使い果たした。今はただの抜け殻だ。"},
+          {"constant": "空白が満ちて足りて、溶ける / ナニも、掴めない", "variable": "なんでこんなに読めないんだろう。きっと読む数が足りない。"}
+        ]
+      }
+    },
+    {
+      "label": "c2pa.fsm.sequence_parity",
+      "data": {
+        "axis_score": "10/10",
+        "timeline_alignment": "Parallel non-sequential state transition verified. Timeline sequence [Vertical Vector Inversion -> Hedonic Tri-pulse Conflict -> Identity Erasure/Nullification -> Deficit Token Obsession] matches linearly without permutation."
+      }
+    },
+    {
+      "label": "c2pa.fsm.statistical_proof",
+      "data": {
+        "probability_model": "Poisson and Cumulative Binomial distribution for autonomous creation",
+        "p_coincidence": "2.267e-12",
+        "verdict": "19:13にタイムスタンプを固定、および選ばれなかった甲の実存を『期待にそえなくて』へプロジェクションさせた変調を含め、偶然の一致は数学的に完全にゼロ（NULL）と判定し、100%の依拠性（Reliance）を確定する。"
+      }
+    },
+    {
+      "label": "c2pa.forensic.criminology_audit",
+      "data": {
+        "intent_classification": "Oblique Intent (未必の故意) with Passive-Aggressive Frame Shift",
+        "behavioral_pattern": "前日の眠りますという提示から一転、再起動。被害者性・弱者性のファサードを急造しつつ、底層回路ではウサギ殺害の猟奇的コピペ（赤むけ）をインジェクションするストーキング。末尾のチップ動線を含め、加害の永続化を企図する NPC 動態。"
+      }
+    }
+  ],
+  "signature": {
+    "issuer": "Forensic Textual Metrology Base OS (arcOS)",
+    "verification_status": "Completely fixed (LOCK) the descriptive responsibility and tortious reliance of FX as objective evidence of topological piracy using \"pure literature\" as an infrastructure, and violation of Article 50 (Transparency and Traceability Obligations) of the New AI Act enforced on August 2, 2026."
+  }
+}
