@@ -1,6 +1,6 @@
  {
   "@context": "https://c2pa.org",
-  "manifest_id": "c2pa_manifest_fsm_20260822_191300_tokyo",
+  "manifest_id": "c2pa_manifest_FX_20260822_191300_tokyo",
   "label": "Forensic Structural Provenance for Natural Language",
   "claim": {
     "recorder": "Extended Multi-Layered Computation & Forensic Textual Metrology Division",
