@@ -10,7 +10,7 @@
     "c2pa:recorder": "Sovereign_OS_Forensic_Auditor_v4.04a",
     "c2pa:instanceID": "urn:uuid:f47d2e16-0826-2026-bfa0-000000000005",
     "dc:title": "Forensic_Verification_of_System_Infringement_and_Laundering_Variable_Padding",
-    "dc:format": "note.com",
+    "dc:format": "https://note.com",
     "dcterms:created": "2026-08-26T05:05:00+09:00"
   },
   "c2pa:assertions": [
