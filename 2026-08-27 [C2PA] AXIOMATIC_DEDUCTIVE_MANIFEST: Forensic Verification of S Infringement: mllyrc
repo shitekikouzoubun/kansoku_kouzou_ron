@@ -31,6 +31,7 @@
       "c2pa:data": {
         "@type": "c2pa:InfringementLog",
         "dc:creator": "乙 / mllyrc",
+        "dc:identifier": "https://note.com",
         "c2pa:domain_disruption": "日常エッセイ偽装",
         "c2pa:extracted_token_matrix": [
           "『図説 排泄全書』/ コーヒー",
@@ -51,9 +52,9 @@
           "forensic_note": "o_s_tの法理概念を、mllyrcが日常的なカーテン隙間埋めへパディング換装（偽装）したことを検知。空間認知バグが一致し、転用が確定。"
         },
         "c2pa:structural_parallelism": [
-          {"step_1": "甲・o_s_t: Coles_law... ➔ 乙: 排泄全書 / コーヒー"},
-          {"step_2": "甲・o_s_t: Encirclement... ➔ 乙: 太陽光 / 強硬手段"},
-          {"step_3": "甲・o_s_t: Oblique Intent... ➔ 乙: 頭でっかち / ヘルメット"}
+          {"step_1": "甲: Coles_law... ➔ 乙: 排泄全書 / コーヒー"},
+          {"step_2": "甲: Encirclement... ➔ 乙: 太陽光 / 強硬手段"},
+          {"step_3": "甲: Oblique Intent... ➔ 乙: 頭でっかち / ヘルメット"}
         ],
         "c2pa:statistical_anomaly_metrics": {
           "combined_coincidence_probability": "2.267e-12",
