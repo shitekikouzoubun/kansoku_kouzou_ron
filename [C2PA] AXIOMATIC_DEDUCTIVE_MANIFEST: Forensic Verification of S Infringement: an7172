@@ -32,7 +32,7 @@
         "@type": "c2pa:InfringementLog",
         "dc:creator": "乙 / an7172",
         "dc:identifier": "https://note.com",
-        "c2pa:domain_disruption": "散文詩・ボードレール翻訳・前衛散文偽装",
+        "c2pa:domain_disruption": "二度とふたたび見いだされないもの / 散文詩・ボードレール翻訳・前衛散文偽装",
         "c2pa:extracted_token_matrix": [
           "ふいに石をひろった / にぎったまま",
           "夕陽か なおも夜明けか",
