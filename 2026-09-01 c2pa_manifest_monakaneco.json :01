@@ -18,8 +18,8 @@
       "c2pa:label": "c2pa:source.provenance.root",
       "c2pa:data": {
         "@type": "c2pa:SourceSignal",
-        "dc:creator": "甲 (True Anomaly Seed)",
-        "dc:title": "駄文的詩文 (True Structural Definition Body)",
+        "dc:creator": "甲",
+        "dc:title": "叡知の語り部 (True Structural Definition Body)",
         "dcterms:created": "2025-11-15T02:11:00+09:00",
         "c2pa:domain": "数理・波動力学・多層並列統合",
         "c2pa:core_token_matrix": [
@@ -35,8 +35,9 @@
       "c2pa:label": "c2pa:target.infringement.node",
       "c2pa:data": {
         "@type": "c2pa:InfringementLog",
-        "dc:creator": "Z / monakaneco",
-        "dc:identifier": "https://note.com",
+        "dc:creator": "monakaneco",
+        "dc:identifier": "https://note.com/monakaneco",
+        "dc:title": "【詩】予言の書",
         "dcterms:created": "2025-11-23T11:50:00+09:00",
         "c2pa:domain_disruption": "純文学・ダークファンタジー偽装 / 構造的簒奪による未必の故意表現",
         "c2pa:extracted_token_matrix": [
