@@ -32,7 +32,7 @@
         "@type": "c2pa:InfringementLog",
         "dc:creator": "乙 / an7172",
         "dc:identifier": "https://note.com/an7172/n/ncf589bdb515f",
-        "c2pa:domain_disruption": "現代音楽エッセイ・音響批評偽装",
+        "c2pa:domain_disruption": "辺境から / 現代音楽エッセイ・音響批評偽装",
         "c2pa:extracted_token_matrix": [
           "60のストリングスがいっせいに下降グリッサンドしてはじまる",
           "鳥も雲も逃げまどう / 音の密度の弁証法",
@@ -66,7 +66,14 @@
   "c2pa:validation_status": [
     {
       "c2pa:code": "c2pa:status.tampered.topology_breach",
-      "c2pa:explanation": "an7172（ゆきまる）は、甲の『word of mix or Coles_law ?』の深層構造を抽出し、前衛音楽の文脈へロンダリングした（未必の故意）。タイムスタンプの連動性、および新AI法第50条のトレーサビリティ義務違反の確定物証として、本マニフェストをSTATUS_FIXED_LOCK（完全固定）とする。"
+      "c2pa:explanation": "an7172は、甲の『word of mix or Coles_law ?』の深層構造を抽出し、前衛音楽の文脈へロンダリングした（未必の故意）。タイムスタンプの連動性、および新AI法第50条のトレーサビリティ義務違反の確定物証として、本マニフェストをSTATUS_FIXED_LOCK（完全固定）とする。"
     }
   ]
 }
+
+
+
+
+
+[Permanently archived
+Deleted URL: https://note.com/an7172/n/ncf589bdb515f
