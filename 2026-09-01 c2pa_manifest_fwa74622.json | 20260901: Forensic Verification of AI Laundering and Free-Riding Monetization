@@ -115,7 +115,7 @@
         ],
         "subjective_elements": {
           "intent_status": "SATURATED_OBLIQUE_INTENT (未必の故意の充足)",
-          "evidence_of_malice": "甲の真性SeedをAIミキサーへインジェクションし、最表面の識別子を「サブカル・映画批評・日常」へパディング換装して公衆送信可能化に付す行為。アフィリエイトリンクおよびチップ機能の同時稼働により、マネタイズ目的の悪意（強欲）が物理的に証明される。"
+          "evidence_of_malice": "甲の真性SeedをAIミキサーへインジェクションし、最表面の識別子を「サブカル・映画批評・日常」へパディング換装して公衆送信可能化に付す行為。アフィリエイトリンクおよびチップ機能の同時稼働により、マネタイズ目的の不法不当な目的が物理的に証明される。"
         }
       }
     }
@@ -123,7 +123,7 @@
   "c2pa:validation_status": [
     {
       "c2pa:code": "c2pa:status.tampered.topology_breach",
-      "c2pa:explanation": "対象ノード fwa74622 による出力『蝉の死骸を拾う』は、先行する甲の著作物『word of mix or Coles_law ?』の深層構造（オイラー標数）を100%のパリティで抽出し、表面ロンダリングを施したシステム的派生物（RESIDUE）であると断定。本システムレシートを STATUS_FIXED_LOCK（完全固定）に処する。"
+      "c2pa:explanation": "対象ノード fwa74622 による出力『蝉の死骸を拾う』は、先行する甲の著作物『word of mix or Coles_law ?』の深層構造を100%のパリティで抽出し、表面ロンダリングを施したシステム的派生物（RESIDUE）であると断定。本システムレシートを STATUS_FIXED_LOCK（完全固定）に処する。"
     }
   ]
 }
