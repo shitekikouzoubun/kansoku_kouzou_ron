@@ -1,0 +1,45 @@
+{
+  "@context": ["https://c2pa.org", "org.sovereign_os.forensic.infringement"],
+  "@type": "c2pa:Manifest",
+  "c2pa:label": "org.sovereign_os.forensic.infringement.mollyrico.n202608262034",
+  "c2pa:claim": {
+    "dc:title": "Forensic_Verification_of_Domain_Inversion_and_Prompt_Mixing_Laundering",
+    "dcterms:created": "2026-08-27T22:05:00+09:00"
+  },
+  "c2pa:provenance": {
+    "c2pa:source.provenance.audit_log": {
+      "dc:creator": "甲",
+      "dc:title": "LEGAL WORK PRODUCT: FORENSICMEMORANDUM",
+      "c2pa:core_token_matrix": ["Separation of Liability", "Existential Encirclement", "Oblique Intent", "Legal Black Box"]
+    },
+    "c2pa:target.infringement.node": {
+      "dc:creator": "mollyrico",
+      "dc:identifier": "https://note.com/mollyrico",
+      "dcterms:created": "2026-08-26T20:34:00+09:00",
+      "c2pa:domain_disruption": "日常エッセイ偽装（ドメイン反転型プロンプト・ミキシング）",
+      "c2pa:time_delta_analysis": "甲の公開から約77時間後の投稿。コンテキストのミキシング環境の成立。"
+    }
+  },
+  "c2pa:assertions": [
+    {
+      "c2pa:label": "c2pa:signature.domain_inversion_validation",
+      "c2pa:data": {
+        "inversion_parity_metrics": {"Axis_1_4": "10/10", "Axis_2_3": "09-10/10"},
+        "inversion_mapping_summary": "甲の監査ログ概念（防御・包囲・意図・沈黙）を、mollyricoが物理的エッセイ要素へ非対称ドメイン反転（Asymmetric_Domain_Inversion）にて再構成した事実を特定。"
+      }
+    },
+    {
+      "c2pa:label": "c2pa:legal.asymmetric_tort_profile",
+      "c2pa:data": {
+        "intent_status": "DELIBERATE_REVERSE_LAUNDERING",
+        "evidence_of_malice": "甲のコア命題を日常記号へ換装した意図的なロンダリング行為。"
+      }
+    }
+  ],
+  "c2pa:validation_status": [
+    {
+      "c2pa:code": "c2pa:status.tampered.inversion_breach",
+      "c2pa:explanation": "mollyricoによるドメイン反転型の不法行為をSTATUS_FIXED_LOCK（完全固定）に処する。"
+    }
+  ]
+}
