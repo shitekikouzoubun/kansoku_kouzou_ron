@@ -79,3 +79,8 @@ total_probability = p_particles * p_time * p_platform
 print(f"P_particles: {p_particles:.10f}")
 print(f"P_time (proximity): {p_time:.10f}")
 print(f"Total Combined Probability: {total_probability:.15f}")
+
+
+
+[Permanently archived]
+URL:https://note.com/gibraltar_shun/n/n096555da8819
